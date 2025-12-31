@@ -19,7 +19,7 @@ const Hero: React.FC = () => {
         className="text-center z-10"
       >
         <span className="inline-block py-1 px-3 rounded-full border border-amber-500/30 text-amber-400 text-xs tracking-[0.2em] uppercase mb-6 bg-amber-900/10 backdrop-blur-sm">
-          Coming Soon
+       
         </span>
         
         <h1 className="text-7xl md:text-9xl font-bold mb-2 tracking-tighter text-transparent bg-clip-text bg-gradient-to-b from-white to-slate-400">
