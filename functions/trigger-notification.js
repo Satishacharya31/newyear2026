@@ -1,7 +1,7 @@
 
 import webpush from 'web-push';
 
-export async function onRequestPost(context) {
+export async function onRequest(context) {
     try {
         const { request, env } = context;
 
