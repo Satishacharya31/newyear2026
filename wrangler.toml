@@ -1,0 +1,8 @@
+
+name = "satish-2026"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+
+[pages_build_config]
+build_command = "npm run build"
+destination = "dist"
