@@ -85,7 +85,7 @@ function App() {
 
         console.log("Push Subscribed");
         // Send Subscription to Server
-        fetch("http://localhost:3000/subscribe", {
+        fetch("/subscribe", {
           method: "POST",
           body: JSON.stringify(subscription),
           headers: {
